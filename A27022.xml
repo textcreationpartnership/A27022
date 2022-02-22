@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a matron of rank quality in Windsor to one of the same in Druery-lane</title>
+            <author>Kéroualle, Louise-Renée de, Duchess of Portsmouth and Aubigny, 1649-1734.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27022</idno>
+            <idno type="STC">Wing B139</idno>
+            <idno type="STC">ESTC R13414</idno>
+            <idno type="EEBO-CITATION">12335053</idno>
+            <idno type="OCLC">ocm 12335053</idno>
+            <idno type="VID">59761</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27022)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59761)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 932:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a matron of rank quality in Windsor to one of the same in Druery-lane</title>
+                  <author>Kéroualle, Louise-Renée de, Duchess of Portsmouth and Aubigny, 1649-1734.</author>
+                  <author>M. B.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Shuter,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Caption title.</note>
+                  <note>Signed: "M.B."</note>
+                  <note>Attributed to Louise Renée de Penancóet de Keroualle Portsmouth. cf. NUC pre-1956.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>English letters.</term>
+               <term>Great Britain --  Social life and customs --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:59761:1" rendition="simple:additions"/>
+            <head>A LETTER FROM A <hi>Matron of Rank Quality</hi> IN WINDSOR, TO One of the ſame, IN DRUERY-LANE.</head>
+            <opener>
+               <salute>Madam,</salute>
+            </opener>
+            <p>IN my laſt to you I gave you an account of the ſucceſſion of our Af<g ref="char:EOLhyphen"/>fairs here, without omition; nor am I unſenſible (however you pleaſe to think me) of your Qualification; that is, I know you ſo exact a Miſtris of your affections, that you ſleep not without counſelling your Table-Book or Diary; this known to me, forces me to an ill opi<g ref="char:EOLhyphen"/>nion, and that a worſe, which is, that either you have nothing worth communicating, or that you have forgot that knack of friendſhip and commerce which keeps the World in buſineſs; but I will not perſiſt this way, the Town I hope will never want Community, though the Court be diſtant, and to ſuſpect you were a ſin that I ſhall never be guilty of. I have nothing that's new to ſend you, onely ſome few Remarks of my own; Our Court is a continued Scene of joy and pleaſure; not preſcribed by time of day or night, for they are one, and are but uſed as other Maſque<g ref="char:EOLhyphen"/>ing Robes in the Great Balls; the Day in Grottoes, ſhady Springs and Bowers, they ſit like <hi>Venus</hi> Doves, Billing and Cooing; till envying <hi>Jove,</hi> who cannot court ſo well, though he ſhould do it with a Golden Showre, talks loud, and with repeated Thunder frights the ſoft fair one cloſer to his arms; the trembling Prey, with Eyes half bent, and Heart and Breaſt all throbbing, looks in his face; the Youth, though no contemner of a Deity, offers protection, and yet cloſer, takes the Charmer.</p>
+            <pb n="2" facs="tcp:59761:2"/>
+            <q>
+               <l>And whilſt the Thunderer larums all above,</l>
+               <l>He ſtorms below, and gets the Fort of Love.</l>
+            </q>
+            <p>The night is another Act of the ſame Scene, yet no intire <hi>Broben</hi> Scene, as your Neighbour ſaid his laſt Act was; not like that of Poet <hi>Bayſe,</hi> for this is all love and intriegue, without ſleeping or frighting. Here might indeed be Uſurping, but that here is more Collonies than Conquerers; but for Seranading, as Fidling, Dancing, and fat Singing. <hi>Auguſtus</hi> kept his Court in <hi>Greece</hi> Land in Winter time compared to us, yet with ſuch Dicorum, that Guards nor no one is diſturbed, no Bravades, no Marter<g ref="char:EOLhyphen"/>ers of Glaſs; none of thoſe Copper-Captains here, Gold is thought too baſe, to take the Impreſſion of the God of Love; ſo Hearts for Hearts exchange, and only leave the Guinney-Slaves in Hoſtage for the League they have concluded. Indeed Madam, I cannot give you the character of any one intreague, and not leſſen it; all things are manag'd to your ad<g ref="char:EOLhyphen"/>vantage, that ſure ſome God directs in each affair, onely your Friend and mine, pritty Miſs <hi>Lay-Cock,</hi> is almoſt dead of a Cold, occaſioned (my Lord imagines) by her riſing to hear and ſee the Serenaders; but ſhe is mighti<g ref="char:EOLhyphen"/>ly diſturb'd with it, her Shoulders, Arms, eſpecially her Head and Throat, and what is moſt obſervable, when ſhe is on a Bed, let my Lord do all he can, ſhe does not ſleep for pain; <hi>Album Greebium</hi> has been uſed, and the foot of her Stocking; but that is not the Remedy; you are deſired by her to take the old Lodging for her and my Lord at Doctor <hi>R</hi>— in <hi>Long-Acre,</hi> the fine ayr and ill Wine has brought a fluſhing in my Lords face, which ſhe indeavouring to take off with a Mercurial Water, turns to a dry Scurf; Dear Madam, if your face burn'd laſt night you muſt par<g ref="char:EOLhyphen"/>don us, we were together a knot of excellent Company, and your name was not the leaſt in uſe amongſt us: Old Mr. <hi>T</hi>— came to ſee Madam <hi>F</hi>—, and brought along with him one Sir <hi>D</hi>—, a Gentleman of great Ignorance, yet very inquiſitive, and as ceremonious as a <hi>French</hi>-Taylor, or a Country Dancing-Maſter, and ſo over-civil, that he would not put on his Hat till the Lady had drank her Glaſs off; Maſter <hi>T</hi>— partly tyred with the formalities of the <abbr>Eſq</abbr> and partly to leave him to the management of the Lady, pretends private buſineſs with me, and takes me into the next Room, from whence we had the conveniency both to ſee and hear what there was acted after a little pauſe, as playing with his Hat, looking at his Feet, and ſcratching his Head, he ſtarts up, and boldly ask<g ref="char:EOLhyphen"/>ed her what a Clock it was, and at the ſame time (becauſe he would not take her word) pull'd from his Pocket a Gold Watch, which ſhe ſo prittily commended, that the <abbr>Eſq</abbr> had ſence enough (with a great ſigh) to ſay, It was at her ſervice; which ſhe graciouſly accepted, and from her Arm took a Bracelet of <hi>Pomander</hi> and preſented the Squire; See (ſaid ſhe) it is not in my nature to be ungrateful, nor in my power to ſhew the bounty of it; ſo tying it on his Arm, offered to have kiſt his Hand, which he preven<g ref="char:EOLhyphen"/>ted, falling on his knee; <hi>The Gods forbid,</hi> ſaid he, <hi>that the Son of a Dotrel by the Father, and Trebubble by the Mother, ſhould permit ſuch Worſhip; no, Madam, let me pay it here;</hi> So taking up the <hi>Martins-Lane,</hi> he Kiſt and bluſht, and bluſht and kiſt ſo hard, that had it been fleſh and Blood, it
+<pb n="3" facs="tcp:59761:2"/>might have Sworn a Rape againſt him. What elſe paſt that night I leave you to judge, but I think that ſhe's a happy Woman that has a fine Eſtate and a Fool to manage, there's one provided for, which I am heartily glad of, though my care muſt be the greater: Heaven they ſay, provides for the Lame and the Lazy, but I am ſure I might have ſtarv'd but for my own In<g ref="char:EOLhyphen"/>duſtry; but I know in caſe of neceſſity, ſhe's more Genteele then to de<g ref="char:EOLhyphen"/>ny to ſee a Gentleman that's my Friend, however, our time here is very ſhort, <hi>New-Market</hi>'s comming on, I cannot help my Ambition, I muſt fol<g ref="char:EOLhyphen"/>low the <hi>Court,</hi> though I proteſt, a penny's better and eaſier got amongſt the honeſt Citizens, with leſs noiſe, leſs care, and more ſecurity, nay, the the world is come to that paſs, that if a Gentleman ſend his Foot-man with expreſs command for ſuch a Lady, the ſawcy Raſcal will ſee all, ex<g ref="char:EOLhyphen"/>amine their Linnen, ſee their Breaſts and Teeth, ſmell their Breaths; nay, ſome muſt know whether their Bellies are not wrinkled, and Page muſt be deny'd nothing, becauſe Forſooth, a great Courtier has that priviledge. Indeed Madam I am weary, and would leave it off, but that I am ſure they would ſay I am grown <hi>Whiggiſh,</hi> therefore ſince I cannot leave it off with my Credit: Pray make it your buſineſs againſt the time, to provide what new Faces you can, and if you can, think of ſomething, if poſſible, to out-doe that Cutting at <hi>New-Market;</hi> if there be a Penny to be got honeſtly, why not we? I have ſpoke to Mr. <hi>C</hi>— the <hi>Tarter,</hi> to help you with 20 of his <hi>Coulen de Feile,</hi> and pray deliver one to each of them, thoſe that cannot Read may ſtudy the Poſture, which if well done, will look better than a Feather you know where. Dear Madam, aſſiſt my poor Husband in what you can, I underſtand that a parcel of Hectoring Roy<g ref="char:EOLhyphen"/>ſters, came at an unſeaſonable hour, when a woman could not be got for Love nor Money, and only becauſe the houſe was unprovided at that time, broke my windows and his Pate, for pretending to keep a Bawdy-houſe and having never a whore in it; but I know not how this can be juſtified, they were not Ignorant where I was. But as to our buſineſs at <hi>New-Market,</hi> now I think on't, 'tis <hi>Bartholomew</hi>-Fair time, and for thoſe women I ſpoke of, you cannot furniſh your ſelf better then out of the <hi>Bell-Conies,</hi> many of them Dance well, and have a pritty way of Sing<g ref="char:EOLhyphen"/>ing, I know not whether they underſtand Catting or no, but if you do not provide for them they will go naked within this two months. Par<g ref="char:EOLhyphen"/>don me Madam, that I preſcribe Rules to one ſo abſolute, one that has <hi>Pit-B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xt</hi> and <hi>Gallared</hi> from your Infancy; one that knows more names than I do faces, but I preſume becauſe you can forgive, which is the beſt excuſe at this time I can offer: This with the reſt we muſt be ſure to have, one ſtrong Dockt Third Rate, one that has Courage, no matter for his Beauty and Crape, it's good enough; the Guard muſt be Courted ſome<g ref="char:EOLhyphen"/>times a good Toſſing before-hand; have a care of a Pin-Buttock, a <hi>Bar<g ref="char:EOLhyphen"/>bary</hi> never becomes a Portmantle for Coach-men, Grooms, Foot-men, and Poſtilions, we'l fit our ſelves at <hi>Sturbridge,</hi> but for the Serving-men, thoſe Jucetos of their Maſters, thoſe <hi>Autum</hi> Butter-flies with <hi>May</hi>-wings, Gentlemen of the <hi>Shedrew</hi> and <hi>Cravat</hi>-ſtring, thoſe and the Genteele Pages, will be content with nothing under a Sopp in the pan. Madam, I am ſure the Houſe that I have taken has conveniency enough for all theſe, and queſtion not but with our endeavours, to make a bet<g ref="char:EOLhyphen"/>ter time on't then the laſt, New Faces will be the onely thing:
+<pb n="4" facs="tcp:59761:3"/>I proteſt, I was forced to paſs one Woman by Three ſeveral names to one Man; this was a great deal of confidence, Madam, but I hope, ſo warn'd, you will provide better; you know who I have here, <hi>Druery-Lane, Covent-Garden,</hi> and thereabouts will furniſh a larger <hi>Seragalio</hi> then we ſhall need; and truly, it is nothing but conſcience to imploy them, poor Women! they have had a long Vacation. Pray Madam, let me have your anſwer by the next, and forget not the Rooms in <hi>Long-Acre,</hi> leaſt they be taken up, for ſuch Colds are infectious, and few eſcape them; which will obliege to your ſervice for ever,</p>
+            <closer>
+               <signed>M. B.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>J. Shuter,</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
